@@ -2,5 +2,5 @@
 
 *soy Juan Jose Nina Quempe*
 
-!(C\Users\Usuario\Pictures\Saved Pictures\200x200.jpg)
+!(C/Users/Usuario/Documents/2026-tp0-juanjoseninaquempe/200x200.jng)
 
