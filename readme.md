@@ -2,5 +2,5 @@
 
 *soy Juan Jose Nina Quempe*
 
-![texto](/200x200.jng)
+![texto](/200x200.jpg)
 
